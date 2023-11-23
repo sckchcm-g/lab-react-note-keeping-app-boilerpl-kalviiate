@@ -35,4 +35,13 @@ h3{
   border: none;
   border-radius: 10px;
   box-shadow: 5px;
+  max-width: 500px;
+  word-wrap: break-word;
+  
+}
+
+.output-text{
+  white-space: initial;
+  padding: 10px;
+  /* overflow-y: scroll; */
 }
